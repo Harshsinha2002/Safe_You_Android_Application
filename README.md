@@ -29,3 +29,5 @@ Configure Contacts: Add emergency contacts for SOS messaging and quick calling.
 Browse Products: Explore the wide range of safety and self-defense products available in the app.
 Make Payments: Purchase products securely using Razor Pay payment gateway.
 Access Information: Stay informed with valuable safety tips and guidelines provided within the app.
+
+
